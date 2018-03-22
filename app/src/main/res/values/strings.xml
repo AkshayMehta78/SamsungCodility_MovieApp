@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMDB</string>
+    <string name="nowplaying">Now Playing</string>
+    <string name="upcoming">Upcoming Movies</string>
+</resources>
